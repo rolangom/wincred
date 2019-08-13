@@ -1,0 +1,12 @@
+{
+  "name": "wincred",
+  "version": "1.0.0",
+  "description": "wincred",
+  "main": "app.js",
+  "author": {
+    "name": "@rolangom"
+  },
+  "devDependencies": {
+    "@types/node": "10.14.15"
+  }
+}
