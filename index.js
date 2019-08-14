@@ -19,4 +19,3 @@ function getCredential(target, pythonLancher = 'python') {
 }
 exports.getCredential = getCredential;
 exports.default = getCredential;
-//# sourceMappingURL=index.js.map
